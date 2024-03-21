@@ -1,0 +1,9 @@
+*{
+    text-align: center;
+}
+
+.borders{
+    border-style: ridge;
+    background-color: blue;
+    color: white;
+}
